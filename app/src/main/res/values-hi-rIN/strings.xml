@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="lat">अक्षांश:</string>
+    <string name="lon">देशांतर:</string>
+    <string name="altitude">ऊंचाई:</string>
+    <string name="accuracy">शुद्धता:</string>
+    <string name="speed">गति:</string>
+    <string name="sensor">सेंसर:</string>
+    <string name="cell_tower_wifi">सेल टावर + वाईफाई</string>
+    <string name="updates">अपडेट:</string>
+    <string name="off">बंद</string>
+    <string name="location_updates">स्थान अपडेट</string>
+    <string name="gps_savepower">जीपीएस/सेव पावर</string>
+    <string name="address">पता:</string>
+    <string name="number_of_times_location_is_updated">स्थान अपडेट किए जाने की संख्या :</string>
+    <string name="update_location">स्थान अपडेट करें</string>
+    <string name="show_location_list">स्थान सूची दिखाएं</string>
+    <string name="show_locations_on_map">मानचित्र पर स्थान दिखाएं</string>
+</resources>

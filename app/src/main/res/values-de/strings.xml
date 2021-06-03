@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="show_locations_on_map">Standorte auf Karte anzeigen</string>
+    <string name="show_location_list">Liste der Standorte anzeigen</string>
+    <string name="update_location">Standort aktualisieren</string>
+    <string name="number_of_times_location_is_updated">Anzahl der Aktualisierungen des Standorts:</string>
+    <string name="address">Adresse:</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="location_updates">Standortaktualisierungen</string>
+    <string name="off">aus</string>
+    <string name="updates">Aktualisierung:</string>
+    <string name="cell_tower_wifi">Mobilfunkmast + WLAN</string>
+    <string name="sensor">Sensor:</string>
+    <string name="speed">Geschwindigkeit:</string>
+    <string name="accuracy">Richtigkeit:</string>
+    <string name="altitude">Höhe:</string>
+    <string name="lon">Längengrad:</string>
+    <string name="lat">Breite:</string>
+</resources>

@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="title_activity_maps" translatable="false">Map</string>
+    <string name="lat">Lat:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Accuracy:</string>
+    <string name="speed">Speed:</string>
+    <string name="sensor">Sensor:</string>
+    <string name="updates">Updates:</string>
+    <string name="off">Off</string>
+    <string name="location_updates">Location Updates</string>
+    <string name="gps_savepower">GPS/SavePower</string>
+    <string name="address">Address:</string>
+    <string name="update_location">Update Location</string>
+    <string name="show_location_list">Show Locations list</string>
+    <string name="show_locations_on_map">Show Locations on Map</string>
+    <string name="cell_tower_wifi">Cell tower + Wifi</string>
+    <string name="number_of_times_location_is_updated">Number of times Location is Updated :</string>
+    <string name="lon">Lon:</string>
+</resources>

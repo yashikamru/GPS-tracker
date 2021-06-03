@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Tracker</string>
+    <string name="lat">Lat:</string>
+    <string name="lon">Lon:</string>
+    <string name="altitude">Altitude:</string>
+    <string name="accuracy">Précision:</string>
+    <string name="speed">La vitesse:</string>
+    <string name="sensor">Capteur:</string>
+    <string name="cell_tower_wifi">Tour cellulaire + Wifi</string>
+    <string name="updates">Mises à jour:</string>
+    <string name="off">Désactivé</string>
+    <string name="location_updates">Mises à jour de localisation</string>
+    <string name="gps_savepower">GPS/Économie d\'énergie</string>
+    <string name="address">Adresse:</string>
+    <string name="number_of_times_location_is_updated">Nombre de fois que l\'emplacement est mis à jour :</string>
+    <string name="update_location">Mettre à jour l\'emplacement</string>
+    <string name="show_location_list">Afficher la liste des emplacements</string>
+    <string name="show_locations_on_map">Afficher les emplacements sur la carte</string>
+</resources>
